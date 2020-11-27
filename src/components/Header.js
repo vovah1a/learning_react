@@ -4,7 +4,7 @@ function Header() {
 
     return (
         <header>
-            <input></input>
+            <input className= "new-todo"></input>
         </header>
     )
 }

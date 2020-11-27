@@ -17,7 +17,7 @@ footer{
   background-color: rgb(127, 255, 212);
 }
 
-input{
+.new-todo{
     margin: auto;
     width: 50%;
     background-color: rgba(255, 255, 255, 0.623);
